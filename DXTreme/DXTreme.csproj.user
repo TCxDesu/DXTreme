@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Components\CustomBorderedTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\CustomComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CustomDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\CustomRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Components\customTextbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Custom-Button-WinForm-main\Custom-Button-WinForm-main\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom-TextBox-main\RJTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Frames\Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frames\SuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\ActiveMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\Calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\DataLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\days.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Frames\loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frames\FormManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frames\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frames\Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\Equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\ListofAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\ListofMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\Staffs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Panels\TransactionHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Popup\AccounSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Popup\AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Popup\Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Popup\equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Popup\logout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Popup\MemberRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Popup\returningtosignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Popup\succes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="textBox\elipseControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="textBox\panel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="textBox\RjButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="textBox\RJComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="textBox\textBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

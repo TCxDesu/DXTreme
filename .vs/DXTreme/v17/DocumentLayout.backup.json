@@ -1,0 +1,1299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arren\\source\\repos\\DXTreme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\addequipmenttolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\addequipmenttolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\frames\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\addequipmenttolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\addequipmenttolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\frames\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\datalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\datalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\sql script\\sqlcrudmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\sql script\\sqlcrudmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\memberregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\memberregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\accountedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\accountedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\returningtosignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\returningtosignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\memberregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\memberregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\accountedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\accountedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\accounsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\accounsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\accounsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\accounsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\superadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\superadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\failed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\failed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\failed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\failed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\popup\\succes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\succes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\superadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\superadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\frames\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\components\\customcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\components\\customcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\components\\customborderedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\components\\customborderedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\sql script\\sqlstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\sql script\\sqlstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\frames\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\frames\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\staffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\staffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\staffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\staffs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\listofmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\listofmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\listofadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\listofadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\listofadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\listofadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\datalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\datalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\listofmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\listofmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\activemembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\activemembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\components\\customcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\components\\customcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\components\\customborderedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\components\\customborderedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\components\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\components\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\components\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\components\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\textbox\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\textbox\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\textbox\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\textbox\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\listofadmins.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\listofadmins.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\accountedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\accountedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\equipment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\equipment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\accounsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\accounsettings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\custom-textbox-main\\rjtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\custom-textbox-main\\rjtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\custom-textbox-main\\rjtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\custom-textbox-main\\rjtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\succes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\succes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\textbox\\rjcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\textbox\\rjcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\popup\\addequipmenttolist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\popup\\addequipmenttolist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\panels\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\dxtreme.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\dxtreme.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\panels\\activemembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\panels\\activemembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\waiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\waiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\frames\\waiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\waiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|c:\\users\\arren\\source\\repos\\dxtreme\\dxtreme\\frames\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|C:\\Users\\arren\\source\\repos\\DXTreme\\dxtreme\\frames\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E2F0CD-0148-43AD-A97F-FBBB2EA5AE2C}|DXTreme\\DXTreme.csproj|solutionrelative:dxtreme\\frames\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "loading.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\loading.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\loading.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\loading.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\loading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:53:45.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEquipmentToList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddEquipmentToList.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AddEquipmentToList.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddEquipmentToList.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\AddEquipmentToList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:17:19.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEquipmentToList.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddEquipmentToList.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AddEquipmentToList.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddEquipmentToList.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\AddEquipmentToList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:00:47.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Manager.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\Manager.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Manager.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Frames\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:55:42.692Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddAdmin.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AddAdmin.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddAdmin.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\AddAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:00:29.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\logout.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\logout.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\logout.cs [Design]*",
+              "RelativeToolTip": "DXTreme\\Popup\\logout.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:27:06.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\loading.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\loading.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\loading.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Frames\\loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:53:44.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataLog.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\DataLog.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\DataLog.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\DataLog.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\DataLog.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:45:49.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuperAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\SuperAdmin.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\SuperAdmin.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\SuperAdmin.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\SuperAdmin.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAewJcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:29:07.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "equipment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\equipment.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\equipment.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\equipment.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\equipment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:33:03.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SQLCRUDMethods.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\SQL Script\\SQLCRUDMethods.cs",
+              "RelativeDocumentMoniker": "DXTreme\\SQL Script\\SQLCRUDMethods.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\SQL Script\\SQLCRUDMethods.cs",
+              "RelativeToolTip": "DXTreme\\SQL Script\\SQLCRUDMethods.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAASwOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:17:06.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "equipment.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\equipment.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\equipment.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\equipment.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\equipment.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAlwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:29:40.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "logout.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\logout.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\logout.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\logout.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\logout.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:52:36.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\MemberRegistration.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\MemberRegistration.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\MemberRegistration.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\MemberRegistration.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAlwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:24:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "returningtosignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\returningtosignUp.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\returningtosignUp.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\returningtosignUp.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\returningtosignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:00:09.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\MemberRegistration.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\MemberRegistration.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\MemberRegistration.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\MemberRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:57:49.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccountEdit.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AccountEdit.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccountEdit.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\AccountEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:47:16.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\Attendance.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\Attendance.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\Attendance.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\Attendance.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA5wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:13:10.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Attendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\Attendance.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\Attendance.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\Attendance.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\Attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:20:59.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddAdmin.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AddAdmin.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddAdmin.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\AddAdmin.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:03:46.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountEdit.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccountEdit.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AccountEdit.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccountEdit.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\AccountEdit.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:47:28.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccounSettings.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccounSettings.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AccounSettings.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccounSettings.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\AccounSettings.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAlwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:54:48.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccounSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccounSettings.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AccounSettings.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccounSettings.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\AccounSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:05:08.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Login.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\Login.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Login.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\Login.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv2AAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:51:28.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "failed.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\failed.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\failed.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\failed.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\failed.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:58:00.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "failed.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\failed.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\failed.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\failed.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\failed.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:55:52.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SuperAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\SuperAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\SuperAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\SuperAdmin.Designer.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\SuperAdmin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:30:35.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "succes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\succes.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\succes.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\succes.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Popup\\succes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:55:57.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SuperAdmin.resx",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\SuperAdmin.resx",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\SuperAdmin.resx",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\SuperAdmin.resx",
+              "RelativeToolTip": "DXTreme\\Frames\\SuperAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-25T21:14:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SuperAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\SuperAdmin.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\SuperAdmin.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\SuperAdmin.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Frames\\SuperAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:29:11.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomComboBox.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\CustomComboBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Components\\CustomComboBox.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\CustomComboBox.cs",
+              "RelativeToolTip": "DXTreme\\Components\\CustomComboBox.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADwv5AAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:03:01.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomBorderedTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\CustomBorderedTextBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Components\\CustomBorderedTextBox.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\CustomBorderedTextBox.cs",
+              "RelativeToolTip": "DXTreme\\Components\\CustomBorderedTextBox.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAWwH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:30:41.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SQLStartup.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\SQL Script\\SQLStartup.cs",
+              "RelativeDocumentMoniker": "DXTreme\\SQL Script\\SQLStartup.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\SQL Script\\SQLStartup.cs",
+              "RelativeToolTip": "DXTreme\\SQL Script\\SQLStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:04:03.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Manager.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\Manager.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Manager.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\Manager.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAhwBEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:58:06.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Login.Designer.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\Login.Designer.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAowAcBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:00:53.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "customTextbox.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\customTextbox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Components\\customTextbox.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\customTextbox.cs",
+              "RelativeToolTip": "DXTreme\\Components\\customTextbox.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:30:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\TransactionHistory.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\TransactionHistory.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\TransactionHistory.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAADgv3MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:44:31.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Staffs.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Staffs.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\Staffs.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Staffs.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\Staffs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwJgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:18:16.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Calendar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Calendar.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\Calendar.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Calendar.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Panels\\Calendar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:30:25.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "loading.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\loading.Designer.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\loading.Designer.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\loading.Designer.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\loading.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:00:36.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AccountEdit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccountEdit.Designer.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AccountEdit.Designer.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccountEdit.Designer.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\AccountEdit.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:47:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AccounSettings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccounSettings.Designer.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AccounSettings.Designer.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AccounSettings.Designer.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\AccounSettings.Designer.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAYwEUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:01:25.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "textBox.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\textBox\\textBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\textBox\\textBox.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\textBox\\textBox.cs",
+              "RelativeToolTip": "DXTreme\\textBox\\textBox.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:39:57.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RJTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Custom-TextBox-main\\RJTextBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Custom-TextBox-main\\RJTextBox.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Custom-TextBox-main\\RJTextBox.cs",
+              "RelativeToolTip": "DXTreme\\Custom-TextBox-main\\RJTextBox.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:37:43.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "succes.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\succes.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\succes.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\succes.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\succes.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:25:46.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AddEquipmentToList.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddEquipmentToList.Designer.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\AddEquipmentToList.Designer.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\AddEquipmentToList.Designer.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\AddEquipmentToList.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwAcBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:28:27.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\HomePage.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\HomePage.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\HomePage.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:12:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "equipment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\equipment.Designer.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Popup\\equipment.Designer.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Popup\\equipment.Designer.cs",
+              "RelativeToolTip": "DXTreme\\Popup\\equipment.Designer.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAYwEkBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:12:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Equipment.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\Equipment.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Equipment.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\Equipment.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:40:19.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ListofMembers.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ListofMembers.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\ListofMembers.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ListofMembers.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\ListofMembers.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAIAwwH4AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:13.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DXTreme",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\DXTreme.csproj",
+              "RelativeDocumentMoniker": "DXTreme\\DXTreme.csproj",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\DXTreme.csproj",
+              "RelativeToolTip": "DXTreme\\DXTreme.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T14:05:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ListofAdmins.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ListofAdmins.Designer.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\ListofAdmins.Designer.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ListofAdmins.Designer.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\ListofAdmins.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:02:25.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFMNAAAAAAAAAAAtwFUNAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-23T10:57:12.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Archive.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Archive.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\Archive.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Archive.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\Archive.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwFkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:56:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ListofAdmins.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ListofAdmins.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\ListofAdmins.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ListofAdmins.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\ListofAdmins.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAYwL4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:46:47.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Staff.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\Staff.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Staff.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\Staff.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAtwN8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:58:30.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ActiveMembers.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ActiveMembers.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\ActiveMembers.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ActiveMembers.cs",
+              "RelativeToolTip": "DXTreme\\Panels\\ActiveMembers.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAhwCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:36:15.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\FormManager.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\FormManager.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\FormManager.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\FormManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:52:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Program.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Program.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Program.cs",
+              "RelativeToolTip": "DXTreme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:52:17.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "waiting.cs",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\waiting.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\waiting.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\waiting.cs",
+              "RelativeToolTip": "DXTreme\\Frames\\waiting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:51:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CustomBorderedTextBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\CustomBorderedTextBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Components\\CustomBorderedTextBox.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Components\\CustomBorderedTextBox.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Components\\CustomBorderedTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:30:34.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CustomComboBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\CustomComboBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Components\\CustomComboBox.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Components\\CustomComboBox.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Components\\CustomComboBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:36:29.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RJComboBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\textBox\\RJComboBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\textBox\\RJComboBox.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\textBox\\RJComboBox.cs [Design]",
+              "RelativeToolTip": "DXTreme\\textBox\\RJComboBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:33:48.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "customTextbox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Components\\customTextbox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Components\\customTextbox.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Components\\customTextbox.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Components\\customTextbox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:40:21.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "textBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\textBox\\textBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\textBox\\textBox.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\textBox\\textBox.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\textBox\\textBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:39:52.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RJTextBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Custom-TextBox-main\\RJTextBox.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Custom-TextBox-main\\RJTextBox.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Custom-TextBox-main\\RJTextBox.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Custom-TextBox-main\\RJTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:37:40.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\HomePage.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\HomePage.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\HomePage.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:12:50.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "days.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\days.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\days.cs",
+              "ToolTip": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\days.cs [Design]",
+              "RelativeToolTip": "DXTreme\\Panels\\days.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:23:47.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TransactionHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\TransactionHistory.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\TransactionHistory.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\TransactionHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:19.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Equipment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Equipment.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\Equipment.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\Equipment.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\Equipment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T17:40:14.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DataLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\DataLog.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\DataLog.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\DataLog.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\DataLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:23.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ListofAdmins.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ListofAdmins.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\ListofAdmins.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\ListofAdmins.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\ListofAdmins.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:05:12.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ListofMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ListofMembers.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\ListofMembers.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\ListofMembers.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\ListofMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:22:12.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Staffs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Staffs.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\Staffs.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\Staffs.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\Staffs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:42:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Staff.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\Staff.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Frames\\Staff.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Frames\\Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:58:20.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\Login.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\Login.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Frames\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Frames\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:54:33.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ActiveMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\ActiveMembers.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\ActiveMembers.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\ActiveMembers.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\ActiveMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:36:28.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Archive.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Panels\\Archive.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Panels\\Archive.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\Archive.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Panels\\Archive.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:36:24.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FormManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\FormManager.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\FormManager.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Frames\\FormManager.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Frames\\FormManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:52:32.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "waiting.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\arren\\source\\repos\\DXTreme\\DXTreme\\Frames\\waiting.cs",
+              "RelativeDocumentMoniker": "DXTreme\\Frames\\waiting.cs",
+              "ToolTip": "C:\\Users\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Frames\\waiting.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\lukea\\OneDrive\\Desktop\\Apps\\DXTreme\\DXTreme\\Frames\\waiting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:51:15.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
